@@ -116,7 +116,6 @@ width: 15%;
 .skills{
   width: 50%;
   margin: auto;
-  text-align: left;
 }
 .html-icon{
   float:left;
@@ -128,7 +127,10 @@ width: 15%;
 }
 .skill-html{
   margin: 200px auto;
+  text-align: left;
 }
 .skill-css{
+  
+  text-align: right;
 
 }
